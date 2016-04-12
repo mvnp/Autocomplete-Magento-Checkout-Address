@@ -4,5 +4,5 @@ Este código permite usar um webservice externo para autocompletar os endereços
 
 Quem desejar pode contribuir me ensinando ou fazendo um commit de uma forma de implementar este pequeno script em qualquer tema e checkout independente da sua origem ou forma.
 
-#### Eu coloquei o código do custom.js no arquivo head.phtml neste diretório:
+#### Eu coloquei o código do porto_br.js no arquivo head.phtml neste diretório:
 app/design/frontend/smartwave/porto/template/page/html/
