@@ -6,3 +6,6 @@ Quem desejar pode contribuir me ensinando ou fazendo um commit de uma forma de i
 
 #### Eu coloquei o código do porto_br.js no arquivo head.phtml neste diretório:
 app/design/frontend/smartwave/porto/template/page/html/
+
+#### Próxima contribuição:
+Fazer funcionar no default
