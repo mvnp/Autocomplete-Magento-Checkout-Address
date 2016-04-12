@@ -23,10 +23,6 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 */
 jQuery(function($){
-    $("#billing\\:taxvat").mask("999.999.999-99");
-    $("#billing\\:postcode, #estimate_postcode, #postcode").mask("99999-999");
-    $("#billing\\:telephone").mask("(99) x9999-9999");
-    $("#billing\\:fax").mask("(99) x9999-9999");
 
     //////////////////////////////////////////////////////
     function limpa_formulário_cep() {
